@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Rows>
+  <Row>
+    <Suit>Clubs</Suit>
+    <Result>♣</Result>
+  </Row>
+  <Row>
+    <Suit>Diamonds</Suit>
+    <Result>♦</Result>
+  </Row>
+</Rows>
