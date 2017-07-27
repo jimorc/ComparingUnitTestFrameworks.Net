@@ -5,7 +5,7 @@ There are four projects:
 - PlayingCards: contains a simple class called CardSuit for which the unit tests are written.
 - MSTestTests - unit tests written for MSTest.
 - NUnitTests - unit tests written for NUnit.
-- xUnitTests = unit tests written for xUnit.Net.
+- xUnitTests - unit tests written for xUnit.Net.
 
 ##Requirements
 1. Visual Studio 2017 Update 1 or later (any version)
