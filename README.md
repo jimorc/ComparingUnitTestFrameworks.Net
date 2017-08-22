@@ -1,5 +1,13 @@
 # ComparingUnitTestFrameworks.Net
-This repository contains the code discussed in my post [https://jaipblog.wordpress.com/2017/08/11/comparing-net-unit-test-frameworks/ (Comparing .Net Unit Test Frameworks)].
+This repository contains the code discussed in my post (Comparing .Net Unit Test Frameworks)[https://jaipblog.wordpress.com/2017/08/11/comparing-net-unit-test-frameworks/].
+
+There are four projects:
+- PlayingCards: contains a simple class called CardSuit for which the unit tests are written.
+- MSTestTests - unit tests written for MSTest.
+- NUnitTests - unit tests written for NUnit.
+- xUnitTests - unit tests written for xUnit.Net.
+
+## Requirements].
 
 There are four projects:
 - PlayingCards: contains a simple class called CardSuit for which the unit tests are written.
